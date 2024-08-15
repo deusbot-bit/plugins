@@ -1,0 +1,20 @@
+[
+    {
+      "Author": "Eqbot, Vivi",
+      "Name": "SnapperFork",
+      "InternalName": "Snapper",
+      "AssemblyVersion": "0.0.0.5",
+      "Description": "/psnap to use",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/ViviAshe/XIVSnapper",
+      "Tags": [
+        "snapper"
+      ],
+      "DalamudApiLevel": 10,
+      "LoadPriority": 0,
+      "Punchline": "Snapshot mods from your friends",
+      "DownloadLinkInstall": "https://github.com/ViviAshe/plugins/raw/main/Snapper/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ViviAshe/plugins/raw/main/Snapper/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ViviAshe/plugins/raw/main/Snapper/latest.zip",
+    }
+]
