@@ -1,0 +1,18 @@
+{
+  "Author": "Eqbot, astrodoobs, Vivi",
+  "Name": "SnapperFork",
+  "InternalName": "Snapper",
+  "AssemblyVersion": "0.0.0.5",
+  "Description": "/psnap to use",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "snapper"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Snapshot mods from your friends",
+  "AcceptsFeedback": true
+}
