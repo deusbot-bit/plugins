@@ -13,8 +13,8 @@
       "DalamudApiLevel": 10,
       "LoadPriority": 0,
       "Punchline": "Snapshot mods from your friends",
-      "DownloadLinkInstall": "https://github.com/ViviAshe/plugins/raw/main/Snapper/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/ViviAshe/plugins/raw/main/Snapper/latest.zip",
-      "DownloadLinkTesting": "https://github.com/ViviAshe/plugins/raw/main/Snapper/latest.zip",
+      "DownloadLinkInstall": "https://github.com/ViviAshe/XIVSnapper/releases/download/Release/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ViviAshe/XIVSnapper/releases/download/Release/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ViviAshe/XIVSnapper/releases/download/Release/latest.zip",
     }
 ]
