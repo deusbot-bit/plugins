@@ -1,20 +1,23 @@
 [
-    {
-      "Author": "Eqbot, Vivi",
-      "Name": "SnapperFork",
-      "InternalName": "Snapper",
-      "AssemblyVersion": "0.0.0.6",
-      "Description": "/psnap to use",
-      "ApplicableVersion": "any",
-      "RepoUrl": "https://github.com/ViviAshe/XIVSnapper",
-      "Tags": [
-        "snapper"
-      ],
-      "DalamudApiLevel": 10,
-      "LoadPriority": 0,
-      "Punchline": "Snapshot mods from your friends",
-      "DownloadLinkInstall": "https://github.com/ViviAshe/XIVSnapper/releases/download/Release/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/ViviAshe/XIVSnapper/releases/download/Release/latest.zip",
-      "DownloadLinkTesting": "https://github.com/ViviAshe/XIVSnapper/releases/download/Release/latest.zip",
-    }
+  {
+    "Author": "Eqbot, astrodoobs, Vivi",
+    "Name": "Snapper",
+    "InternalName": "Snapper",
+    "AssemblyVersion": "0.0.0.7",
+    "Description": "/psnap to use",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "snapper"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Snapshot mods from your friends",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip"
+  }
 ]
