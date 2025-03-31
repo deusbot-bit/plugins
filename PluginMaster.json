@@ -9,7 +9,7 @@
         "Tags": [
             "snapper"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -31,7 +31,7 @@
         "Tags": [
             "utility"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
