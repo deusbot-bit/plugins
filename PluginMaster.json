@@ -16,9 +16,9 @@
         "LoadPriority": 0,
         "Punchline": "Snapshot mods from your friends",
         "AcceptsFeedback": false,
-        "DownloadLinkInstall": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip"
+        "DownloadLinkInstall": "https://github.com/deusbot-bit/XIVSnapper/releases/download/12/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/deusbot-bit/XIVSnapper/releases/download/12/latest.zip",
+        "DownloadLinkTesting": "https://github.com/deusbot-bit/XIVSnapper/releases/download/12/latest.zip"
     },
     {
         "Author": "Marulu, StreetRat, Vivi",
